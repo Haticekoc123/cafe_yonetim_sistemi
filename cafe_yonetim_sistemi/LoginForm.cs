@@ -16,5 +16,10 @@ namespace cafe_yonetim_sistemi
         {
             InitializeComponent();
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cafe_yonetim_sistemi", "cafe_yonetim_sistemi\cafe_yonetim_sistemi.csproj", "{449FC2A4-CD65-474D-AF38-FC1233897B41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cafe_yonetim_sistemi_Enities", "cafe_yonetim_sistemi_Enities\cafe_yonetim_sistemi_Enities.csproj", "{D29883F2-8AB3-488A-A375-5F0FDFA3DDC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{449FC2A4-CD65-474D-AF38-FC1233897B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{449FC2A4-CD65-474D-AF38-FC1233897B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{449FC2A4-CD65-474D-AF38-FC1233897B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29883F2-8AB3-488A-A375-5F0FDFA3DDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29883F2-8AB3-488A-A375-5F0FDFA3DDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29883F2-8AB3-488A-A375-5F0FDFA3DDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29883F2-8AB3-488A-A375-5F0FDFA3DDC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

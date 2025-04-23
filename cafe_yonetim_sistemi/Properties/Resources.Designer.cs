@@ -61,12 +61,12 @@ namespace cafe_yonetim_sistemi.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Resources.ResXFileRef.
         /// </summary>
-        internal static System.Drawing.Bitmap cafe_logo {
+        internal static System.Resources.ResXFileRef cafe_logo {
             get {
                 object obj = ResourceManager.GetObject("cafe logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                return ((System.Resources.ResXFileRef)(obj));
             }
         }
     }
